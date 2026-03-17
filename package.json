@@ -1,0 +1,6 @@
+{
+  "name": "pancake-commercial",
+  "private": true,
+  "description": "Commercial OpenClaw skill for Pancake reminder/escalation workflows.",
+  "version": "1.0.0"
+}

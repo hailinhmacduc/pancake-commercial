@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "example-page": {
+      "page_id": "YOUR_PAGE_ID",
+      "page_access_token": "YOUR_PAGE_ACCESS_TOKEN"
+    }
+  },
+  "staff": {
+    "SALE_A": {
+      "telegram": "@sale_a",
+      "tag_id": 101,
+      "name": "Sale A"
+    },
+    "SALE_B": {
+      "telegram": "@sale_b",
+      "tag_id": 102,
+      "name": "Sale B"
+    },
+    "SALE_C": {
+      "telegram": "@sale_c",
+      "tag_id": 103,
+      "name": "Sale C"
+    }
+  }
+}

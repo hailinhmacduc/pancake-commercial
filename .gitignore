@@ -1,0 +1,16 @@
+# Runtime / secrets
+*.log
+.env
+.env.*
+*.local.json
+config.pages.json
+pancake_pages.json
+.pancake_monitor_state.json
+state.json
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
